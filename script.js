@@ -1,4 +1,4 @@
-console.log("Hello World!");
+console.log("Boilaaa");
 
-let name = "Nicole";
-console.log("Welcome, " + name);
+let visitor = "Visitor";
+console.log("Welcome, " + visitor);
